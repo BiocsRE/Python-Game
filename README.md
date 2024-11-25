@@ -43,7 +43,7 @@ To run this game, you’ll need Python 3 and the Pygame library installed.
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/BiocsRE/escape-the-abandoned-mansion.git
+   https://github.com/BiocsRE/escape-the-abandoned-mansion.git
    ```
 2. Navigate to the project directory:
    ```bash
