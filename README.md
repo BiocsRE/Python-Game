@@ -1,4 +1,3 @@
-Sure! Here's a sample `README.md` file for your Pygame project, explaining how it works, how to run it, and what the game does:
 
 ---
 
